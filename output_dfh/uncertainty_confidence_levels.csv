@@ -1,0 +1,4 @@
+Growth Stage,Selected Features,Uncertainty (t/ha),68% CI Lower (t/ha),68% CI Upper (t/ha),95% CI Lower (t/ha),95% CI Upper (t/ha),MAE (g),RMSE (g),R²,Std Dev Observed (t/ha),Std Dev Predicted (t/ha),Std Dev Residuals (t/ha)
+EARLY,"rainfall, NDVI_fused_auc, VV_mean",1.033,-1.033,1.033,-2.025,2.025,132.881,162.917,-0.327,1.072,0.862,1.111
+MID,"soil_organic_carbon, VV_mean, temp",1.081,-1.081,1.081,-2.118,2.118,138.247,171.580,-0.472,1.072,0.834,1.047
+LATE,"VV_mean, rainfall, soil_organic_carbon",0.994,-0.994,0.994,-1.948,1.948,129.142,157.637,-0.242,1.072,0.869,1.040
