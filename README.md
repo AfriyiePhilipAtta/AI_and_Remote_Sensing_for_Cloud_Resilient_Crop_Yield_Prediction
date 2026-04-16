@@ -85,7 +85,6 @@ The figure below compares raw Sentinel-2 NDVI (left column) against Kalman-fused
 | 📉 Val RMSE | 1.186 t/ha |
 | 📈 Val R² | 0.172 |
 | ⚠️ Uncertainty | ±1.138 t/ha |
-| 📊 68% CI | −1.138 → +1.138 t/ha |
 | 📊 95% CI | −2.231 → +2.231 t/ha |
 | σ Observed | 1.303 t/ha |
 | σ Predicted | 0.723 t/ha |
